@@ -1,5 +1,5 @@
 # ESV-skuggbacklog
-Öppna frågor vi har med ESV 
+Öppna frågor vi har till ESV 
 
 Idag verkar ESV sakna en GITHUB plattform eller liknande för att hantera sin backlog jmf [projektet R%iksdagens Corpus på GITHUB](https://github.com/welfare-state-analytics/riksdagen-corpus/issues?q=is%3Aissue+sort%3Aupdated-desc) det [ESV forum](https://forum.esv.se/) som finns verkar bara vara för statsanställda i Sverige och andra kan inte registrera sig vilket känns udda...
 
