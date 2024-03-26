@@ -1,5 +1,5 @@
 # ESV-skuggbacklog
-Öppna frågor vi ser med ESV
+Öppna frågor vi har med ESV data idagb verkar ESV sakna en GITHUB plattform eller liknande för att hantera sin backlog jmf [projektet R%iksdagens Corpus på GITHIB](https://github.com/welfare-state-analytics/riksdagen-corpus/issues?q=is%3Aissue+sort%3Aupdated-desc)
 
 * [skuggbacklog](https://github.com/salgo60/ESV-skuggbacklog/issues/1)https://github.com/salgo60/ESV-skuggbacklog/issues/1
 
