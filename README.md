@@ -1,7 +1,7 @@
 # ESV-skuggbacklog
 Öppna frågor vi har till ESV 
 
-Idag verkar ESV sakna en GITHUB plattform eller liknande för att hantera sin backlog jmf [projektet R%iksdagens Corpus på GITHUB](https://github.com/welfare-state-analytics/riksdagen-corpus/issues?q=is%3Aissue+sort%3Aupdated-desc) det [ESV forum](https://forum.esv.se/) som finns verkar bara vara för statsanställda i Sverige och andra kan inte registrera sig vilket känns udda... särskilt med tanke på att den som gör skillnad är Jens Nylander med sitt [kommun.jensnylander.com](https://kommun.jensnylander.com/)
+Idag verkar ESV sakna en GITHUB plattform eller liknande för att hantera sin backlog jmf [projektet Riksdagens Corpus på GITHUB](https://github.com/welfare-state-analytics/riksdagen-corpus/issues?q=is%3Aissue+sort%3Aupdated-desc) det [ESV forum](https://forum.esv.se/) som finns verkar bara vara för statsanställda i Sverige och andra kan inte registrera sig vilket känns udda... särskilt med tanke på att den som gör skillnad är Jens Nylander med sitt [kommun.jensnylander.com](https://kommun.jensnylander.com/)
 
 * [ESV skuggbacklog](https://github.com/salgo60/ESV-skuggbacklog/issues/1) - #1
 
