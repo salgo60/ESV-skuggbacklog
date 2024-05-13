@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11183935.svg)](https://doi.org/10.5281/zenodo.11183935)
+
 # ESV-skuggbacklog
 
 * [ESV skuggbacklog](https://github.com/salgo60/ESV-skuggbacklog/issues/1)
