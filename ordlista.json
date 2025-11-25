@@ -1,0 +1,29 @@
+/ 20251125215842
+// https://www.esv.se/contentassets/fb0219edaa2b4f9793595e129b31fa14/esv-ordlista.json?v=8ddfc22fa9a9200
+
+[
+  {
+    "titel": "Administration",
+    "kortDefinition": "Administration är informationshanterande arbetsuppgifter. Det kan vara planeringsdokumentation och annan rapportering. I kärnverksamheten tillkommer administrativa arbetsuppgifter utöver de huvudsakliga arbetsuppgifterna. I stödverksamheten är administrativa arbetsuppgifter en väsentlig del.",
+    "definition": null
+  },
+  {
+    "titel": "Analys",
+    "kortDefinition": "I sammanhanget att redovisa resultat i årsredovisningen avses förklarande resonemang om vad förändringar, skillnader och tillstånd kan bero på.",
+    "definition": null
+  },
+  {
+    "titel": "Anläggningstillgång",
+    "kortDefinition": "En anläggningstillgång är en tillgång som är avsedd för stadigvarande bruk.",
+    "definition": null
+  },
+  {
+    "titel": "Anslag",
+    "kortDefinition": "Anslag är medel på statens budget som riksdagen anvisar för ett visst ändamål och för viss tid och som regeringen disponerar och tilldelar en myndighet.",
+    "definition": null
+  },
+  {
+    "titel": "Anslagskredit",
+    "kortDefinition": "Anslagskredit är rätten för en myndighet att inom vissa gränser överskrida ett ramanslag.",
+    "definition": null
+  },
